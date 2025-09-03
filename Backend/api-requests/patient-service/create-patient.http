@@ -1,2 +1,11 @@
 #Create a patients
 POST http://localhost:4000/patients
+Content-Type: application/json
+
+{
+  "name": "Rahul Sharma",
+  "email": "rahul.sharma@example.in",
+  "address": "12 MG Road, Delhi",
+  "dateOfBirth": "1985-06-15",
+  "registeredDate": "2024-01-10"
+}
