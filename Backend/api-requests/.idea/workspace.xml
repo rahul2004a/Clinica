@@ -5,16 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="a07da034-2ec9-407b-bb20-fa7f609e37e5" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/api-requests.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/patient-service/update-patient.http" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../patient-service/src/main/java/com/pm/patientservice/exception/PatientNotFoundException.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../patient-service/src/main/java/com/pm/patientservice/controller/PatientController.java" beforeDir="false" afterPath="$PROJECT_DIR$/../patient-service/src/main/java/com/pm/patientservice/controller/PatientController.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../patient-service/src/main/java/com/pm/patientservice/exception/GlobalExceptionHandler.java" beforeDir="false" afterPath="$PROJECT_DIR$/../patient-service/src/main/java/com/pm/patientservice/exception/GlobalExceptionHandler.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../patient-service/src/main/java/com/pm/patientservice/service/PatientService.java" beforeDir="false" afterPath="$PROJECT_DIR$/../patient-service/src/main/java/com/pm/patientservice/service/PatientService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../patient-service/Dockerfile" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
