@@ -1,0 +1,19 @@
+POST http://localhost:4000/patients
+Content-Type: application/json
+Content-Length: 165
+User-Agent: IntelliJ HTTP Client/IntelliJ IDEA 2025.2.1
+Accept-Encoding: br, deflate, gzip, x-gzip
+Accept: */*
+
+{
+  "name": "Rahul Sharma",
+  "email": "rahul.sharma@example.in",
+  "address": "12 MG Road, Delhi",
+  "dateOfBirth": "1985-06-15",
+  "registeredDate": "2024-01-10"
+}
+
+<> 2025-09-06T013810.400.json
+
+###
+
