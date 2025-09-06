@@ -5,13 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="a07da034-2ec9-407b-bb20-fa7f609e37e5" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/../api-gateway/Dockerfile" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../api-gateway/src/main/resources/application.yml" beforeDir="false" afterPath="$PROJECT_DIR$/../api-gateway/src/main/resources/application.yml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/httpRequests/http-requests-log.http" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/httpRequests/http-requests-log.http" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/patient-service/create-patient.http" beforeDir="false" afterPath="$PROJECT_DIR$/patient-service/create-patient.http" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/patient-service/get-patients.http" beforeDir="false" afterPath="$PROJECT_DIR$/patient-service/get-patients.http" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../patient-service/.run/patient-service.run.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../patient-service/.run/patient-service.run.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -110,7 +104,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1756841336047</updated>
-      <workItem from="1757102885833" duration="2071000" />
+      <workItem from="1757102885833" duration="3399000" />
     </task>
     <servers />
   </component>
