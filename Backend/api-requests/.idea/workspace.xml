@@ -5,14 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="a07da034-2ec9-407b-bb20-fa7f609e37e5" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/dbnavigator.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/httpRequests/2025-09-06T013810.400.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/httpRequests/http-client.cookies" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/httpRequests/http-requests-log.http" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../patient-service/src/main/java/com/pm/patientservice/kafka/KafkaProducer.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../patient-service/.run/patient-service.run.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../patient-service/.run/patient-service.run.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../patient-service/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../patient-service/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../patient-service/src/main/java/com/pm/patientservice/kafka/KafkaProducer.java" beforeDir="false" afterPath="$PROJECT_DIR$/../patient-service/src/main/java/com/pm/patientservice/kafka/KafkaProducer.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../patient-service/src/main/java/com/pm/patientservice/service/PatientService.java" beforeDir="false" afterPath="$PROJECT_DIR$/../patient-service/src/main/java/com/pm/patientservice/service/PatientService.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
