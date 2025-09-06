@@ -5,10 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="a07da034-2ec9-407b-bb20-fa7f609e37e5" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/../analytics-service/Dockerfile" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../analytics-service/src/main/java/com/pm/analyticsservice/kafka/KafkaConsumer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../analytics-service/src/main/proto/patient_event.proto" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/httpRequests/2025-09-06T163251.200.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/httpRequests/http-requests-log.http" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/httpRequests/http-requests-log.http" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/patient-service/create-patient.http" beforeDir="false" afterPath="$PROJECT_DIR$/patient-service/create-patient.http" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -101,7 +101,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1756841336047</updated>
-      <workItem from="1757102885833" duration="1234000" />
+      <workItem from="1757102885833" duration="1868000" />
     </task>
     <servers />
   </component>
