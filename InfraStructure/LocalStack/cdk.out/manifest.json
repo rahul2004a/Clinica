@@ -209,6 +209,24 @@
             "type": "aws:cdk:logicalId",
             "data": "PatientServiceDBB84F9BF9"
           }
+        ],
+        "/localstack/AuthDBHealthCheck": [
+          {
+            "type": "aws:cdk:logicalId",
+            "data": "AuthDBHealthCheck"
+          }
+        ],
+        "/localstack/PatientDBHealthCheck": [
+          {
+            "type": "aws:cdk:logicalId",
+            "data": "PatientDBHealthCheck"
+          }
+        ],
+        "/localstack/MskCluster": [
+          {
+            "type": "aws:cdk:logicalId",
+            "data": "MskCluster"
+          }
         ]
       },
       "displayName": "localstack"
