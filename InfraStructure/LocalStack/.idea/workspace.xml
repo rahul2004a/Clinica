@@ -5,10 +5,6 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="5bfa1f26-e06e-4cdd-bd05-9ea2bcbd7942" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cdk.out/localstack.template.json" beforeDir="false" afterPath="$PROJECT_DIR$/cdk.out/localstack.template.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cdk.out/manifest.json" beforeDir="false" afterPath="$PROJECT_DIR$/cdk.out/manifest.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cdk.out/tree.json" beforeDir="false" afterPath="$PROJECT_DIR$/cdk.out/tree.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/com/pm/stack/LocalStack.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/pm/stack/LocalStack.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -96,7 +92,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1757237463539</updated>
-      <workItem from="1757237466597" duration="10733000" />
+      <workItem from="1757237466597" duration="12283000" />
     </task>
     <servers />
   </component>
