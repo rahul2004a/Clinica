@@ -1,0 +1,78 @@
+{
+  "patients": [
+    {
+      "id": "223e4567-e89b-12d3-a456-426614174014",
+      "name": "Aisha Khan",
+      "email": "aisha.khan@example.com",
+      "address": "87 Hazratganj, Lucknow",
+      "dateOfBirth": "1987-10-17"
+    },
+    {
+      "id": "123e4567-e89b-12d3-a456-426614174003",
+      "name": "Amit Kumar",
+      "email": "amit.kumar@example.com",
+      "address": "22 Bannerghatta Rd, Bengaluru",
+      "dateOfBirth": "1982-11-30"
+    },
+    {
+      "id": "123e4567-e89b-12d3-a456-426614174002",
+      "name": "Anjali Singh",
+      "email": "anjali.singh@example.com",
+      "address": "78 Park Street, Kolkata",
+      "dateOfBirth": "1978-03-12"
+    },
+    {
+      "id": "123e4567-e89b-12d3-a456-426614174001",
+      "name": "Anukriti Shrivastava",
+      "email": "anukriti.shrivastava@example.com",
+      "address": "45 FC Road, Uttar Pradesh",
+      "dateOfBirth": "1990-09-23"
+    },
+    {
+      "id": "223e4567-e89b-12d3-a456-426614174009",
+      "name": "Arjun Das",
+      "email": "arjun.das@example.com",
+      "address": "32 Charbagh, Lucknow",
+      "dateOfBirth": "1993-11-15"
+    },
+    {
+      "id": "223e4567-e89b-12d3-a456-426614174010",
+      "name": "Kavya Rao",
+      "email": "kavya.rao@example.com",
+      "address": "76 Jubilee Hills, Hyderabad",
+      "dateOfBirth": "1980-08-09"
+    },
+    {
+      "id": "223e4567-e89b-12d3-a456-426614174011",
+      "name": "Manoj Gupta",
+      "email": "manoj.gupta@example.com",
+      "address": "54 Indiranagar, Bengaluru",
+      "dateOfBirth": "1984-05-03"
+    },
+    {
+      "id": "123e4567-e89b-12d3-a456-426614174004",
+      "name": "Neha Patel",
+      "email": "neha.patel@example.com",
+      "address": "64 CG Road, Ahmedabad",
+      "dateOfBirth": "1995-02-05"
+    },
+    {
+      "id": "223e4567-e89b-12d3-a456-426614174008",
+      "name": "Pooja Nair",
+      "email": "pooja.nair@example.com",
+      "address": "89 Marine Drive, Mumbai",
+      "dateOfBirth": "1989-09-02"
+    },
+    {
+      "id": "123e4567-e89b-12d3-a456-426614174000",
+      "name": "Rahul Kumar",
+      "email": "rahul.kumar@example.com",
+      "address": "12 MG Road, Bihar",
+      "dateOfBirth": "1985-06-15"
+    }
+  ],
+  "page": 1,
+  "size": 10,
+  "totalPages": 3,
+  "totalElements": 24
+}
