@@ -1,12 +1,14 @@
 package com.pm.appointmentservice.entity;
 
-import jakarta.persistence.*;
+import jakarta.persistence.Entity;
+import jakarta.persistence.Id;
+import jakarta.persistence.Table;
 
 import java.time.Instant;
 import java.util.UUID;
 
 @Entity
-@Table(name = "cached_patients")
+@Table(name = "cached_patient")
 public class CachedPatient {
     @Id
     private UUID id;
@@ -14,12 +16,12 @@ public class CachedPatient {
     private String email;
     private Instant updatedAt;
 
-    public String getEmail() {
-        return email;
+    public UUID getId() {
+        return id;
     }
 
-    public void setEmail(String email) {
-        this.email = email;
+    public void setId(UUID id) {
+        this.id = id;
     }
 
     public String getFullName() {
@@ -30,12 +32,12 @@ public class CachedPatient {
         this.fullName = fullName;
     }
 
-    public UUID getId() {
-        return id;
+    public String getEmail() {
+        return email;
     }
 
-    public void setId(UUID id) {
-        this.id = id;
+    public void setEmail(String email) {
+        this.email = email;
     }
 
     public Instant getUpdatedAt() {
